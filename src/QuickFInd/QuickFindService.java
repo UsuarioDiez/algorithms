@@ -1,3 +1,5 @@
+package QuickFInd;
+
 public class QuickFindService {
     private int[] ids;
 
